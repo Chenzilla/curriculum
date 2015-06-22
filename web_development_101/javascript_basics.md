@@ -148,7 +148,9 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Kevin Sen's solution](https://github.com/Kevin-Sen/javascript_101)
 * [Connor Allen's solution](https://github.com/callen139/project_euler) | [View in browser](http://htmlpreview.github.io/?https://github.com/callen139/project_euler/blob/master/index.html)
 * [Scott Bobbitt's solution](https://github.com/sco-bo/Project-Euler)
-* [Joe Balsamo's solution](https://github.com/CodyHacker/Project-Euler-Javascript)
+* [Joe Balsamo's solution](https://github.com/Joe-Balsamo/Project-Euler-Javascript)
+* [Gerard Jorgensen's solution](https://github.com/gerardjorgensen/EulerProject)
+* [laingdk's solution](https://github.com/laingdk/project-euler)
 * Add your solution above this line!
 
 ## Additional Resources

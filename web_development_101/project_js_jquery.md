@@ -186,7 +186,7 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Nathan's solution](https://github.com/viggie79/EtchaSketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/viggie79/EtchaSketch/blob/master/etch.html)
 * [Imiszkusz's solution](https://github.com/Imiszkusz/etch-a-sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/Imiszkusz/etch-a-sketch/blob/master/etchasketch.html)
 * [Kristupas Savickas's solution](https://github.com/pova1/sketchpad-for-the-odin-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/pova1/sketchpad-for-the-odin-project/blob/master/index.html)
-* [Joe Balsamo's solution](https://github.com/CodyHacker/javascript-jQuery) | [View in browser](http://htmlpreview.github.io/?https://github.com/CodyHacker/javascript-jQuery/blob/master/index.html)
+* [Joe Balsamo's solution](https://github.com/Joe-Balsamo/javascript-jQuery) | [View in browser](http://htmlpreview.github.io/?https://github.com/Joe-Balsamo/javascript-jQuery/blob/master/index.html)
 * [Tony Vumbaca's solution](https://github.com/tvumbaca/Etch-A-Sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/tvumbaca/Etch-A-Sketch/blob/master/index.html)
 * [hiendinhngoc's solution](https://github.com/hiendinhngoc/TheOdinProject/tree/master/web101/jquery) | [View in browser](http://htmlpreview.github.io/?https://github.com/hiendinhngoc/TheOdinProject/blob/master/web101/jquery/html_file.html)
 * [M. Edgar Joel's solution](https://github.com/edgar-/odin-project-solutions/tree/master/web_development_101/javasript-jquery-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/edgar-/odin-project-solutions/blob/master/web_development_101/javasript-jquery-project/index.html)
@@ -199,4 +199,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Patrick Doane's solution](https://github.com/patrickdoane/the_odin_project/tree/master/etch-a-sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/patrickdoane/the_odin_project/blob/master/etch-a-sketch/app/index.html)
 * [Ricardo Monteiro's solution](https://github.com/rpmonteiro/Etch-A-Sketch) | [View in browser](https://htmlpreview.github.io/?https://github.com/rpmonteiro/Etch-A-Sketch/blob/master/index.html)
 * [Joseph McConnell's solution](https://github.com/JJMcConnell/TheOdinProject/tree/master/Etch-a-Sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/JJMcConnell/TheOdinProject/blob/master/Etch-a-Sketch/index.html)
+* [Ethan Nevidomsky's solution](https://github.com/Ethan-N/sketch-pad) | [View in browser](http://htmlpreview.github.io/?https://github.com/Ethan-N/sketch-pad/blob/master/index.html)
 * Add your solution above this line!
